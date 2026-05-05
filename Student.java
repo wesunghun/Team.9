@@ -54,6 +54,7 @@ public class Student
      * @param  y  메소드의 샘플 파라미터
      * @return    x 더하기 y의 결과값을 반환
      */
+<<<<<<< HEAD
     public void calculateGugudan()
     {
         // 여기에 코드를 작성하세요.
@@ -63,5 +64,11 @@ public class Student
             }
         }
         System.out.println();
+=======
+    public void calculateGugudan(int dan)
+    {
+        // 여기에 코드를 작성하세요.
+        return x + y;
+>>>>>>> a383ade45bd395fc2faaeb37052f197379bf55aa
     }
 }
